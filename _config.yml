@@ -1,0 +1,28 @@
+name: Christian Sosa
+favicon: null
+layout_spectrum: 0.6301363757811487
+typography_spectrum: 0.2240076302550733
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8757621652912349
+  lightness: 0.7923077156301588
+  saturation: 0.3623841917142272
+  rhythmicContrast: 0.9470706707797945
+purpose: []
